@@ -4,11 +4,17 @@
  max-width: 300px;
  overflow: hidden;
 }
+
 #box{
  margin: 7px;
 }
+
 #it{
  padding: 5px 10px;
  display: inline-block;
  border-radius: 5px;
+}
+
+[v-cloak] {
+  display: none;
 }
